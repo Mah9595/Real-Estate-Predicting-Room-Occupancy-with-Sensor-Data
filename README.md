@@ -1,4 +1,4 @@
-# [Real Estate] Predicting Room Occupancy with Sensor Data
+# Real Estate Predicting Room Occupancy with Sensor Data
 
 Operating an office space when running a business is an expensive affair. On top of rent, you have to pay maintenance and operation costs, including for utilities, such as electricity and water. On the household level, this amount is usually pretty small. On the office level, this can go up to thousands of dollars a month.
 
